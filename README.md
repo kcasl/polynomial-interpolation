@@ -37,4 +37,4 @@ j: 다른 데이터 포인트를 반복하기 위한 루프 카운터
 # Work
 calculation on polynomial interpolation
 <br>
-Work with Soongmoon High School Si Yoon Choi 
+*with Soongmoon High School Si Yoon Choi*
